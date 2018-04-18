@@ -13,7 +13,7 @@ def shipping_manifest
   the_manifest[whale_bone_corsets] = 5
   the_manifest[porcelain_vases] = 2
   the_manifest[oil_paintings] = 3
-  the the_manifest
+  the_manifest
 end
 
 def retrieval
