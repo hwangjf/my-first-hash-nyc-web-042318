@@ -11,8 +11,8 @@ def shipping_manifest
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
   the_manifest = Hash.new
   the_manifest[whale_bone_corsets] = 5
-  the_manifest[porcelain_vases] = 2
   the_manifest[oil_paintings] = 3
+  the_manifest[porcelain_vases] = 2
 end
 
 def retrieval
